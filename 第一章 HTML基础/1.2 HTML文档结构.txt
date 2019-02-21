@@ -1,0 +1,4 @@
+1.2.1 HTML4基本结构
+HTML文档分为两部分:头部区域和主体区域.
+HTML文档基本结构由3个标签负责组织:<html> <head> <body>.<html>标识HTML文档,<head>标识头部区域,<body>标识主体区域
+
